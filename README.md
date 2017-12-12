@@ -2,7 +2,7 @@
 
 The java.util.concurrent.ExecutorService interface represents an asynchronous execution mechanism which is capable of executing tasks in the background. An ExecutorService is thus very similar to a thread pool. In fact, the implementation of ExecutorService present in the java.util.concurrent package is a thread pool implementation.
 
-# ExecutorService Example
+## ExecutorService Example
 
 Here is a simple Java ExectorService example:
 ```
